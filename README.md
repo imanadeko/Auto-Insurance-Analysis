@@ -10,3 +10,10 @@ Splendor Analytics Insurance aims to enhance its auto insurance division by leve
 - Optimize premium pricing models based on risk factors.
 
 - Develop targeted marketing strategies to attract and retain customers.
+
+## Project Structure
+- [Project Brief containing key questions and data dictionary](https://github.com/imanadeko/Auto-Insurance-Analysis/blob/main/Splendor%20Analytics%20Insurance%20Data%20Analysis%20Project%20Brief.docx)
+- [Original dataset](https://github.com/imanadeko/Auto-Insurance-Analysis/blob/main/Insurance%20Policies.csv)
+- [Cleaned dataset](https://github.com/imanadeko/Auto-Insurance-Analysis/blob/main/Insurance%20Policies.xlsx)
+- [Power BI file containing dashboard](https://github.com/imanadeko/Auto-Insurance-Analysis/blob/main/Splendor%20Analytics%20Car%20Insurance%20Dashboard.pbix)
+- [Article on the project](https://imanadeko.hashnode.dev/analyzing-auto-insurance-data-for-better-risk-management-and-customer-engagement)
